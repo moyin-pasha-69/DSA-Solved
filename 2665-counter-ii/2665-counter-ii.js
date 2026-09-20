@@ -4,22 +4,11 @@
  */
 var createCounter = function(init) {
     let ogInit = init;
-    function increment(){
-        init++;
-        return init;
-    }
-    function decrement(){
-        init--;
-        return init;
-    }
-    function reset(){
-        init = ogInit;
-        return init;
-    }
-return {
-    increment:increment,
-    reset:reset,
-    decrement:decrement}
+   return {
+    increment:()=> ++init,
+    reset:()=> init=ogInit,
+    decrement:()=> --init
+   }
 };
 
 /**
