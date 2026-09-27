@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/moyin-pasha-69/Javascript-daily-queations/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/moyin-pasha-69/Javascript-daily-queations/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/moyin-pasha-69/Javascript-daily-queations/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/moyin-pasha-69/Javascript-daily-queations/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +20,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moyin-pasha-69/Javascript-daily-queations/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/moyin-pasha-69/Javascript-daily-queations/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/moyin-pasha-69/Javascript-daily-queations/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
@@ -35,4 +38,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/moyin-pasha-69/Javascript-daily-queations/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/moyin-pasha-69/Javascript-daily-queations/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
